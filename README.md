@@ -1,2 +1,2 @@
 # Leetcode-Notebook
-Here I have created notes for the leetcode problems I have practiced
+Here, I have created notes for the LeetCode problems I have practiced.
