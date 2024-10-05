@@ -13,7 +13,7 @@ Here, I have created notes for the LeetCode problems I have practiced.
 
 ### Medium
 
-1.
+1. [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 
 ### Hard
 
