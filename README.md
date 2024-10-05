@@ -15,6 +15,10 @@ Here, I have created notes for the LeetCode problems I have practiced.
 
 1.
 
+### Hard
+
+1.
+
 ---
 
 ## Two Pointers
@@ -27,6 +31,105 @@ Here, I have created notes for the LeetCode problems I have practiced.
 
 1.
 
+### Hard
+
+1.
+
 ---
 
+## Stack
+
+### Easy
+
+1.
+
+### Medium
+
+1.
+
+### Hard
+
+1.
+
+---
+
+## Binary Search
+
+### Easy
+
+1.
+
+### Medium
+
+1.
+
+### Hard
+
+1.
+
+---
+
+## Sliding Window
+
+### Easy
+
+1.
+
+### Medium
+
+1.
+
+### Hard
+
+1.
+
+---
+
+## Stack
+
+### Easy
+
+1.
+
+### Medium
+
+1.
+
+### Hard
+
+1.
+
+---
+
+## Linked List
+
+### Easy
+
+1.
+
+### Medium
+
+1.
+
+### Hard
+
+1.
+
+---
+
+## Trees
+
+### Easy
+
+1.
+
+### Medium
+
+1.
+
+### Hard
+
+1.
+
+---
 Feel free to explore the solutions and contribute to the repository.
