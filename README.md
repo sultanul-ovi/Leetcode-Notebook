@@ -8,7 +8,7 @@ Here, I have created notes for the LeetCode problems I have practiced.
 
 ### Easy
 
-1. [1. Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=array) | NeetCode | ✅
+1. [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | NeetCode | ✅
 2. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | NeetCode | ❌
 3. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | NeetCode | ❌
 4. [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | ✅
