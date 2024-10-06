@@ -43,10 +43,18 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1.
+2.
+3.
+4.
+5.
 
 ### Medium
 
 1.
+2.
+3.
+4.
+5.
 
 ### Hard
 
@@ -59,10 +67,18 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1.
+2.
+3.
+4.
+5.
 
 ### Medium
 
 1.
+2.
+3.
+4.
+5.
 
 ### Hard
 
@@ -75,10 +91,18 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1.
+2.
+3.
+4.
+5.
 
 ### Medium
 
 1.
+2.
+3.
+4.
+5.
 
 ### Hard
 
@@ -91,10 +115,18 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1.
+2.
+3.
+4.
+5.
 
 ### Medium
 
 1.
+2.
+3.
+4.
+5.
 
 ### Hard
 
@@ -107,10 +139,18 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1.
+2.
+3.
+4.
+5.
 
 ### Medium
 
 1.
+2.
+3.
+4.
+5.
 
 ### Hard
 
@@ -123,10 +163,18 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1.
+2.
+3.
+4.
+5.
 
 ### Medium
 
 1.
+2.
+3.
+4.
+5.
 
 ### Hard
 
@@ -139,10 +187,18 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1.
+2.
+3.
+4.
+5.
 
 ### Medium
 
 1.
+2.
+3.
+4.
+5.
 
 ### Hard
 
