@@ -9,8 +9,8 @@ Here, I have created notes for the LeetCode problems I have practiced.
 ### Easy
 
 1. [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | NeetCode | ✅
-2. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | NeetCode | ❌
-3. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | NeetCode | ❌
+2. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | NeetCode | ✅
+3. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | NeetCode | ✅
 4. [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | ✅
 5. [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/) | ✅
 6. [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | ✅
