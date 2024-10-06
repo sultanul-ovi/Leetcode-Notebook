@@ -10,14 +10,40 @@ Here, I have created notes for the LeetCode problems I have practiced.
 
 1. [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) |
 2. [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 ### Medium
 
-1. [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+1. [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 ### Hard
 
 1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 ---
 
@@ -132,4 +158,5 @@ Here, I have created notes for the LeetCode problems I have practiced.
 1.
 
 ---
+
 Feel free to explore the solutions and contribute to the repository.
